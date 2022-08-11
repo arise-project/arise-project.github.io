@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arise-project.github.io/_company/</loc>
-  </url><url>
-    <loc>https://arise-project.github.io/tags/content/</loc>
-  </url><url>
-    <loc>https://arise-project.github.io/tags/examples/</loc>
-  </url><url>
-    <loc>https://arise-project.github.io/tags/sidebar/</loc>
+    <loc>https://arise-project.github.io/company/</loc>
   </url><url>
     <loc>https://arise-project.github.io/tags/</loc>
   </url><url>
     <loc>https://arise-project.github.io/</loc>
   </url><url>
-    <loc>https://arise-project.github.io/_truck/</loc>
+    <loc>https://arise-project.github.io/truck/</loc>
   </url><url>
-    <loc>https://arise-project.github.io/_train/</loc>
+    <loc>https://arise-project.github.io/train/</loc>
   </url>
 </urlset>
