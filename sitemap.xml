@@ -2,14 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://arise-project.github.io/company/</loc>
+    <loc>http://example.org/categories/</loc>
   </url><url>
-    <loc>https://arise-project.github.io/tags/</loc>
+    <loc>http://example.org/</loc>
   </url><url>
-    <loc>https://arise-project.github.io/</loc>
-  </url><url>
-    <loc>https://arise-project.github.io/truck/</loc>
-  </url><url>
-    <loc>https://arise-project.github.io/train/</loc>
+    <loc>http://example.org/tags/</loc>
   </url>
 </urlset>
